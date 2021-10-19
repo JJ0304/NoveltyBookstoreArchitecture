@@ -1,5 +1,5 @@
 # Novelty (Bookstore)
-SOFE 3650U Project Proposal
+SOFE 3650U Project Proposal (Group 24)
 
 
 # **Team**
