@@ -8,3 +8,5 @@ SOFE 3650U Project Proposal
 #### Janajan Jeyabalan
 #### Rohan Radadiya
 #### Abdullah Malik
+
+# **Functional and Non-functional Requirements**
