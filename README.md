@@ -31,17 +31,19 @@ SOFE 3650U Project Proposal (Group 24)
 
 ## **Non-functional**
 
-2.1 &#8628;  
+1.6 &#8628;  
 - Usersystem takes information from users and records it confidentially and efficiently.
 
-2.2 &#8628; 
+1.7 &#8628; 
 - User/customer feedback will provide clear and concise improvements that will be sent to the database within seconds.
 
-2.3 &#8628; 
+1.8 &#8628; 
 - Chat bot provides help and information within seconds and securely connects to users for conversations.
 
-2.4 &#8628; 
+1.9 &#8628; 
 - Payment method provides convenient service to users/customers to purchase books and securely stores customer information.
 
-2.5 &#8628; 
+1.10 &#8628; 
 - Book recommendation feature will instantly provide accurate recommendations according to user interactions.
+
+# 2. **Use Case Models**
