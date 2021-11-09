@@ -49,3 +49,11 @@ SOFE 3650U Project Proposal (Group 24)
 # 2. **Use Case Models**
 
 [Use Case Models](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/Use%20Case%20Models)
+
+# 3. **Quality Attributes**
+
+[Quality Attributes](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/Quality%20Attributes)
+
+# 4. **System Constraints**
+
+[System Constraints](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/System%20Constraints)
