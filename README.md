@@ -9,7 +9,7 @@ SOFE 3650U Project Proposal (Group 24)
 #### Rohan Radadiya
 #### Abdullah Malik
 
-# **Functional and Non-functional Requirements**
+# 1 **Functional and Non-functional Requirements**
 
 ## **Functional**
 
