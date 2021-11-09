@@ -13,7 +13,7 @@ SOFE 3650U Project Proposal (Group 24)
 
 ## **Functional**
 
-1.1 
+1.1 &#8628;
 - Sigup and login system populates database with user information including email, username, and password.
  
 1.2 
