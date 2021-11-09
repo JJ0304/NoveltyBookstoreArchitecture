@@ -47,3 +47,5 @@ SOFE 3650U Project Proposal (Group 24)
 - Book recommendation feature will instantly provide accurate recommendations according to user interactions.
 
 # 2. **Use Case Models**
+
+[a link](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/Use%20Case%20Models)
