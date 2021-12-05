@@ -41,7 +41,7 @@
 
 # 3. **Quality Attributes**
 
-[Quality Attributes](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/Quality%20Attributes)
+[Quality Attributes](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Quality%20Attributes)
 
 # 4. **System Constraints**
 
