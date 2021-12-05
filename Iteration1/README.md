@@ -69,3 +69,9 @@ Novelty (Online Bookstore System)
 # *System Constraints*
 
 [System Constraints](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/System%20Constraints)
+
+</br>
+
+# *Goals & Inputs*
+
+[Goals & Inputs](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Goals%20%26%20Inputs)
