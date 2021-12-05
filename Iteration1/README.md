@@ -101,7 +101,9 @@ Novelty (Online Bookstore System)
 
 [Sketch Views & Record Design Decisions](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Sketch%20Views%20%26%20Record%20Design%20Decisions)
 
-# *Perform Analysis of Current Design & Review Iteration Goal and Design Objectives
+</br>
+
+# *Perform Analysis of Current Design & Review Iteration Goal and Design Objectives*
 
 [Perform Analysis of Current Design & Review Iteration Goal and Design Objectives](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Analysis)
 
