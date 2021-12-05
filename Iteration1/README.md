@@ -1,14 +1,3 @@
-# Novelty (Bookstore)
-SOFE 3650U Project Proposal (Group 24)
-
-
-# **Team**
-
-#### Faraaz Mohsin
-#### Janajan Jeyabalan
-#### Rohan Radadiya
-#### Abdullah Malik
-
 # 1. **Functional and Non-functional Requirements**
 
 ## **Functional**
