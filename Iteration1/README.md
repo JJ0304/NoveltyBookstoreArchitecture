@@ -42,6 +42,8 @@
 
 Novelty (Online Bookstore System)
 
+</br>
+
 <p>Step 1: Review Inputs</p>
 <p>Step 2: Establish iteration goal and select inputs to be considered in the iteration</p>
 <p>Step 3: Choose one or more elements of the system to decompose</p>
