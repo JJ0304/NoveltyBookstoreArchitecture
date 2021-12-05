@@ -1,1 +1,3 @@
 Instantiate Architectural Elements
+
+Instantiating architectural elements, allocating responsibilities, and defining interfaces are core aspects of structuring the system for Novelty in iteration 1. There are four defined elements such as, application server, presentation layer, UI components, and service interfaces. Each of these elements come with responsibilities that take place in structuring the system. For instance, the presentation layer's responsibility is to display the UI and control how the use cases interact. This could include the login page where the user interacts with the UI.
