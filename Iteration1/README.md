@@ -54,18 +54,18 @@ Novelty (Online Bookstore System)
 </br>
 </br>
 
-# **Use Case Models**
+# *Use Case Models*
 
 [Use Case Models](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Use%20Case%20Models)
 
 </br>
 
-# **Quality Attributes**
+# *Quality Attributes*
 
 [Quality Attributes](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Quality%20Attributes)
 
 </br>
 
-# **System Constraints**
+# *System Constraints*
 
 [System Constraints](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/System%20Constraints)
