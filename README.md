@@ -12,7 +12,7 @@
      (Group 24)
 </p>
 
-| First Header  | Second Header |
+| Name  | Student ID |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
