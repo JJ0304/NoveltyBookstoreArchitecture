@@ -91,5 +91,5 @@ Novelty (Online Bookstore System)
 
 # *Instantiate Architectural Elements, allocate responsibilities, & define interfaces
 
-[Instantiate Architectural Elements, allocate responsibilities, & define interfaces]
-(https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Instantiate%20Architectural%20Elements)
+[Instantiate Architectural Elements, allocate responsibilities, & define interfaces](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Instantiate%20Architectural%20Elements)
+
