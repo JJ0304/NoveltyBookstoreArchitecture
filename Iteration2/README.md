@@ -25,3 +25,15 @@
 # *Use Case Models*
 
 [Use Case Models](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Use%20Case%20Models)
+
+</br>
+
+# *Quality Attributes*
+
+[Quality Attributes](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Quality%20Attributes)
+
+</br>
+
+# *System Constraints*
+
+[System Constraints](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/System%20Constraints)
