@@ -1,4 +1,4 @@
-# **Functional and Non-functional Requirements**
+# *Functional and Non-functional Requirements*
 
 ## **Functional**
 
