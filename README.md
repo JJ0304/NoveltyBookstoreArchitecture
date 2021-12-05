@@ -12,7 +12,7 @@
      (Group 24)
 </p>
 
-| Name  | Student ID |
+| Name  | Student # |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
