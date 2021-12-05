@@ -1,1 +1,1 @@
-Quality Attributes
+Goals & Inputs
