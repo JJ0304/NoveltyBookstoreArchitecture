@@ -12,7 +12,9 @@
      (Group 24)
 </p>
 
+<div align="center">
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+</div>
