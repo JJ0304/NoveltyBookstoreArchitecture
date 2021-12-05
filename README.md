@@ -13,8 +13,10 @@
 </p>
 
 <div align="center">
+     <div>
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+     </div>
 </div>
