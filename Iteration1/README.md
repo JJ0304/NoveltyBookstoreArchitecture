@@ -41,13 +41,13 @@
 Novelty (Online Bookstore System)
 
 
-Step 1: Review Inputs
-Step 2: Establish iteration goal and select inputs to be considered in the iteration 
-Step 3: Choose one or more elements of the system to decompose
-Step 4: Choose one or more design concepts that satisfy the inputs considered in the iteration
-Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces
-Step 6: Sketch views and record design decisions
-Step 7: Perform analysis of current design and review interaction goal and design objectives
+<p>Step 1: Review Inputs</p>
+<p>Step 2: Establish iteration goal and select inputs to be considered in the iteration</p>
+<p>Step 3: Choose one or more elements of the system to decompose</p>
+<p>Step 4: Choose one or more design concepts that satisfy the inputs considered in the iteration</p>
+<p>Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces</p>
+<p>Step 6: Sketch views and record design decisions</p>
+<p>Step 7: Perform analysis of current design and review interaction goal and design objectives</p>
 
 # 2. **Use Case Models**
 
