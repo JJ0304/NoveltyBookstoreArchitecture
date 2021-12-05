@@ -49,3 +49,9 @@
 # *Decompose Elements In System*
 
 [Decompose Elements In System](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Decompose%20Elements%20In%20System)
+
+</br>
+
+# *Selection of Design Concepts*
+
+[Selection of Design Concepts](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Selection%20of%20Design%20Concepts)
