@@ -95,6 +95,8 @@ Novelty (Online Bookstore System)
 
 [Instantiate Architectural Elements, allocate responsibilities, & define interfaces](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Instantiate%20Architectural%20Elements)
 
+</br>
+
 # *Sketch Views & Record Design Decisions*
 
 [Sketch Views & Record Design Decisions](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Sketch%20Views%20%26%20Record%20Design%20Decisions)
