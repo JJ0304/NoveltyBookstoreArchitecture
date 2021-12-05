@@ -4,3 +4,7 @@
 
 <h2>Type of System:</h2>
 <p>Online Bookstore</p>
+
+
+<h2>Objective:</h2>
+<p>Designing to support the primary functionality of an online bookstore</p>
