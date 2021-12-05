@@ -1,14 +1,3 @@
-# Novelty (Bookstore)
-SOFE 3650U Project Proposal (Group 24)
-
-
-# **Team**
-
-#### Faraaz Mohsin
-#### Janajan Jeyabalan
-#### Rohan Radadiya
-#### Abdullah Malik
-
 # 1. **Functional and Non-functional Requirements**
 
 ## **Functional**
@@ -48,12 +37,12 @@ SOFE 3650U Project Proposal (Group 24)
 
 # 2. **Use Case Models**
 
-[Use Case Models](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/Use%20Case%20Models)
+[Use Case Models](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Use%20Case%20Models)
 
 # 3. **Quality Attributes**
 
-[Quality Attributes](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/Quality%20Attributes)
+[Quality Attributes](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Quality%20Attributes)
 
 # 4. **System Constraints**
 
-[System Constraints](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/System%20Constraints)
+[System Constraints](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/System%20Constraints)
