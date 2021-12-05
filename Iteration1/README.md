@@ -89,6 +89,8 @@ Novelty (Online Bookstore System)
 
 > Novelty design concept follows reference architecture because this design concept provides a blueprint for structuring an application; which includes web applications, mobile applications, rich client applications, rich internet applications, and service applications. There are many important components that are present in the reference architecture. Some of the major components are the browser, the user interface, and the business logic. The web browser is the application that is running on the client machine. The user interface is responsible for presenting information to the users and receiving user interactions. The UI process logic is responsible for managing the control flow of the application’s use cases.
 
+</br>
+
 # *Instantiate Architectural Elements, allocate responsibilities, & define interfaces*
 
 [Instantiate Architectural Elements, allocate responsibilities, & define interfaces](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Instantiate%20Architectural%20Elements)
