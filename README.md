@@ -5,10 +5,11 @@
      Novelty Bookstore Software Architecture
 </h1>
 
-<p align="center">
-  Software Design & Architecture Final Project
+<p>
+     Software Design & Architecture Final Project
 </p>
-<p align="center">
+
+<p>
      (Group 24)
 </p>
 
