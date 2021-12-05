@@ -38,12 +38,16 @@
 
 # *Iteration 1: Architecture Design Process*
 
+Novelty (Online Bookstore System)
 
 
-
-
-
-
+Step 1: Review Inputs
+Step 2: Establish iteration goal and select inputs to be considered in the iteration 
+Step 3: Choose one or more elements of the system to decompose
+Step 4: Choose one or more design concepts that satisfy the inputs considered in the iteration
+Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces
+Step 6: Sketch views and record design decisions
+Step 7: Perform analysis of current design and review interaction goal and design objectives
 
 # 2. **Use Case Models**
 
