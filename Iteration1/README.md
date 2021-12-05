@@ -45,4 +45,4 @@
 
 # 4. **System Constraints**
 
-[System Constraints](https://github.com/faraazmohsin/Novelty-Bookstore/tree/main/System%20Constraints)
+[System Constraints](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/System%20Constraints)
