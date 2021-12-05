@@ -11,3 +11,8 @@
 <p align="center">
      (Group 24)
 </p>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
