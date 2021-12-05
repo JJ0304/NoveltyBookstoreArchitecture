@@ -7,5 +7,7 @@
 
 <p align="center">
   Software Design & Architecture Final Project
-  (Group 24)
+</p>
+<p align="center">
+     (Group 24)
 </p>
