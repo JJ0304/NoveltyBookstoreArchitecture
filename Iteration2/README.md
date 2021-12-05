@@ -10,10 +10,11 @@
 <p>Designing to support the primary functionality of an online bookstore</p>
 
 <h2>Concerns:</h2>
-- System Structure
-- Website Capacity
-- Performance under stress
-- Database Management
-- Databse Security
-- Clean and Responsive User Interface
-- Interactive Website Features
+
+* System Structure
+* Website Capacity
+* Performance under stress
+* Database Management
+* Databse Security
+* Clean and Responsive User Interface
+* Interactive Website Features
