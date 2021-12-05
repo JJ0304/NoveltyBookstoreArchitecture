@@ -1,1 +1,3 @@
 Decompose Elements In System
+
+Decomposing the elements in the system consists of the development process of a certain feature in the system. For instance, during iteration 1, the Novelty team wanted to structure the overall system and define it using a top-down approach. This diagram is showing the different parts that build up the online bookstore system. It consists of a book renting database, customer database, inventory database, and a webstore UI. Since iteration 1 is the beginning stage of the journey, we wanted to go more in depth related to customer databse, where users and customers would populate the database. Also, inventory was a big part of structuring the system as it would display active inventory and take care of updates based on interaction.
