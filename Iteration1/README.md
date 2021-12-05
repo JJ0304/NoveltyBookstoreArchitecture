@@ -1,4 +1,4 @@
-# 1. **Functional and Non-functional Requirements**
+# **Functional and Non-functional Requirements**
 
 ## **Functional**
 
@@ -51,14 +51,17 @@ Novelty (Online Bookstore System)
 <p>Step 6: Sketch views and record design decisions</p>
 <p>Step 7: Perform analysis of current design and review interaction goal and design objectives</p>
 
-# 2. **Use Case Models**
+</br>
+</br>
+
+# **Use Case Models**
 
 [Use Case Models](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Use%20Case%20Models)
 
-# 3. **Quality Attributes**
+# **Quality Attributes**
 
 [Quality Attributes](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Quality%20Attributes)
 
-# 4. **System Constraints**
+# **System Constraints**
 
 [System Constraints](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/System%20Constraints)
