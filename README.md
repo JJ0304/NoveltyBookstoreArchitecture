@@ -29,4 +29,6 @@
 
 # *Iteration 2*
 
+[Iteration 2](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2)
+
 # *Iteration 3*
