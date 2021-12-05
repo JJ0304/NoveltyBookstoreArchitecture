@@ -35,6 +35,16 @@
 1.10 &#8628; 
 - Book recommendation feature will instantly provide accurate recommendations according to user interactions.
 
+
+# *Iteration 1: Architecture Design Process*
+
+
+
+
+
+
+
+
 # 2. **Use Case Models**
 
 [Use Case Models](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration1/Use%20Case%20Models)
