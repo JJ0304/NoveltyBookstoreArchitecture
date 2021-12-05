@@ -43,3 +43,9 @@
 # *Goals & Inputs*
 
 [Goals & Inputs](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Goals%20%26%20Inputs)
+
+</br>
+
+# *Decompose Elements In System*
+
+[Decompose Elements In System](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Decompose%20Elements%20In%20System)
