@@ -13,7 +13,7 @@
 </p>
 
 | Name  | Student # |
-| ------------- | ------------- |
+| :-------------: | :-------------: |
 | Faraaz Mohsin  | 100659110  |
 | Rohan Radadiya  | 100704614  |
 | Janajan Jeyabalan  | 100698148  |
