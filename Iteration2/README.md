@@ -18,3 +18,10 @@
 * Databse Security
 * Clean and Responsive User Interface
 * Interactive Website Features
+
+</br>
+</br>
+
+# *Use Case Models*
+
+[Use Case Models](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Use%20Case%20Models)
