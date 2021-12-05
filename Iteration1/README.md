@@ -35,6 +35,7 @@
 1.10 &#8628; 
 - Book recommendation feature will instantly provide accurate recommendations according to user interactions.
 
+</br>
 
 # *Iteration 1: Architecture Design Process*
 
