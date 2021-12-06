@@ -1,1 +1,3 @@
 # *Goals & Inputs*
+
+Iteration 3's goal's and inputs concerned fulfilling the quality attribute scenario's of novelty while also completing frontend architecture and it's connection to Novelty's backend systems. Iteration 3 is where the Novelty focused on producing the most workable prototype, thus the team resolved to address all concerns in some sort of manner along with completely addressing all quality attributes, being Performance, Modifiability, Availability, Usability, and Security. The goal's and attributes of this iteration placed overall emphasis on both combining and refining the the goals and attributes of the previous iterations. 
