@@ -1,13 +1,11 @@
-# **Iteration 2**
-
-# *ADD*
+# **Iteration 3**
 
 <h2>Type of System:</h2>
 <p>Online Bookstore</p>
 
 
 <h2>Objective:</h2>
-<p>Designing to support the primary functionality of an online bookstore</p>
+<p>Designing to support the quality attribute scenarios and additional concerns</p>
 
 <h2>Concerns:</h2>
 
