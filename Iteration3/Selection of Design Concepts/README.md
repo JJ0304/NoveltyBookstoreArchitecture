@@ -1,0 +1,3 @@
+# *Selection of Design Concepts*
+
+The selection of design concepts in interation 2 have evolved compared to iteration 1. For iteration 2, the Novelty team focused on organization through tables. In table 1, the design decisions consisted of technical components based on the goals of iteration 2. For instance, the bookstore backend would be built upon the technology such as MySQL, since developers at Novelty have a strong understanding of that knowledge. Table 2 consists of logical views throughout the system such as cross-platform views, thread-handling, and query cache. For each of these components there are responsibilities that take place. The logical view describes how our system is structured in terms of units of implementation.
