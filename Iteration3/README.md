@@ -46,7 +46,7 @@
 
 # *Decompose Elements In System*
 
-[Decompose Elements In System](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Decompose%20Elements%20In%20System)
+[Decompose Elements In System](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Decompose%20Elements%20In%20System)
 
 </br>
 
