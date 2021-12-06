@@ -66,3 +66,21 @@
 2.8 [Perform Analysis of Current Design & Review Iteration Goal and Design Objectives](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Analysis)
 
 # *Iteration 3*
+
+[Iteration 3](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3)
+</br>
+2.1 [Use Case Models](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Use%20Case%20Models)
+</br>
+2.2 [Quality Attributes](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Quality%20Attributes)
+</br>
+2.3 [System Constraints](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/System%20Constraints)
+</br>
+2.4 [Goals & Inputs](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Goals%20%26%20Inputs)
+</br>
+2.5 [Decompose Elements In System](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Decompose%20Elements%20In%20System)
+</br>
+2.6 [Selection of Design Concepts](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Selection%20of%20Design%20Concepts)
+</br>
+2.7 [Sketch Views & Record Design Decisions](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Sketch%20Views%20%26%20Record%20Design%20Decisions)
+</br>
+2.8 [Perform Analysis of Current Design & Review Iteration Goal and Design Objectives](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Analysis)
