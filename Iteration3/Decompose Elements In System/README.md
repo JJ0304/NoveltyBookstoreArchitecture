@@ -1,1 +1,3 @@
 # *Decompose Elements In System*
+
+When decomposing the Novelty UI and standard performance for iteration 3, the team placed explicit focus on on the frontend along with it's connection to the backend. This entailed correct function of the browsing system, payment system, chat bot, and registration system. Each feature begins decomposition at the front end level, where they are then broken down and evaluated for their connection to the backend and practical functions. The Novelty UI is comprised of four vital categories which makeup the core function of the overall Novelty system, however iteration 3 was most concerned with practicality, frontend architecture, and practical use compared to the others. 
