@@ -40,7 +40,7 @@
 
 # *Goals & Inputs*
 
-[Goals & Inputs](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Goals%20%26%20Inputs)
+[Goals & Inputs](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Goals%20%26%20Inputs)
 
 </br>
 
