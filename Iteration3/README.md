@@ -58,7 +58,7 @@
 
 # *Sketch Views & Record Design Decisions*
 
-[Sketch Views & Record Design Decisions](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration2/Sketch%20Views%20%26%20Record%20Design%20Decisions)
+[Sketch Views & Record Design Decisions](https://github.com/two02k/NoveltyBookstoreArchitecture/tree/main/Iteration3/Sketch%20Views%20%26%20Record%20Design%20Decisions)
 
 </br>
 
